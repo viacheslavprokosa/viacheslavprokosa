@@ -1,7 +1,7 @@
 # Hi there, I'm Viacheslav! 👋
 
 <!-- Animated Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=4285F4&center=false&vCenter=false&width=600&lines=Backend+Developer+🚀;Laravel+%26+FastAPI+Expert;Cloud+%26+DevOps+Enthusiast;Building+scalable+systems...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=4285F4&center=false&vCenter=false&width=600&lines=Backend+Developer+🚀;Laravel+%26+FastAPI+Expert;Cloud+%26+DevOps+Enthusiast;IT+Consultant;Building+scalable+systems...)](https://git.io/typing-svg)
 
 I specialize in backend development (Python/PHP) with a strong background in cloud infrastructure and automation.
 
