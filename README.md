@@ -38,15 +38,15 @@ I specialize in cloud technologies, automation, and infrastructure development.
 
 <div align="center">
   <!-- Profile Stats (Dark Theme) -->
-  <a href="https://github.com/vyacheslavprokosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vyacheslavprokosa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/viacheslavprokosa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viacheslavprokosa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
   
   <!-- Top Languages -->
-  <a href="https://github.com/vyacheslavprokosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyacheslavprokosa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/viacheslavprokosa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viacheslavprokosa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
 <!-- Snake Animation (updates every 12 hours) -->
-![Snake animation](https://github.com/vyacheslavprokosa/vyacheslavprokosa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/viacheslavprokosa/viacheslavprokosa/blob/output/github-contribution-grid-snake.svg)
