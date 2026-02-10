@@ -1,9 +1,9 @@
 # Hi there, I'm Viacheslav! 👋
 
 <!-- Animated Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=4285F4&center=false&vCenter=false&width=435&lines=Cloud+Engineer+☁️;GCP+Associate+Architect;Python+%26+DevOps+Enthusiast;Building+scalable+systems...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=4285F4&center=false&vCenter=false&width=435&lines=Backend+Developer+🚀;Laravel+%26+FastAPI+Expert;Cloud+%26+DevOps+Enthusiast;Building+scalable+systems...)](https://git.io/typing-svg)
 
-I specialize in cloud technologies, automation, and infrastructure development.
+I specialize in backend development (Python/PHP) with a strong background in cloud infrastructure and automation.
 
 - 🔭 I’m currently working on: **GCP Certification & Cloud Infrastructure**
 - 🌱 I’m currently learning: **Advanced Kubernetes & Serverless patterns**
@@ -21,9 +21,11 @@ I specialize in cloud technologies, automation, and infrastructure development.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <br/>
-  <!-- Languages -->
+  <!-- Languages & Frameworks -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <br/>
   <!-- Tools -->
