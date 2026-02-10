@@ -39,12 +39,12 @@ I specialize in cloud technologies, automation, and infrastructure development.
 <div align="center">
   <!-- Profile Stats (Dark Theme) -->
   <a href="https://github.com/viacheslavprokosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viacheslavprokosa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github.com/viacheslavprokosa/viacheslavprokosa/blob/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
   </a>
   
   <!-- Top Languages -->
   <a href="https://github.com/viacheslavprokosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viacheslavprokosa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github.com/viacheslavprokosa/viacheslavprokosa/blob/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
   </a>
 </div>
 
