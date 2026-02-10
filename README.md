@@ -8,7 +8,7 @@ I specialize in cloud technologies, automation, and infrastructure development.
 - 🔭 I’m currently working on: **GCP Certification & Cloud Infrastructure**
 - 🌱 I’m currently learning: **Advanced Kubernetes & Serverless patterns**
 - 💬 Ask me about: **GCP, Terraform, Python, Docker**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/viacheslav-prokosa-8497351a7/)
 
 ---
 
