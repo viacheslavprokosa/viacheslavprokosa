@@ -1,14 +1,14 @@
-# Привіт, я В'ячеслав! 👋
+# Hi there, I'm Viacheslav! 👋
 
-<!-- Анімований заголовок -->
+<!-- Animated Header -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=4285F4&center=false&vCenter=false&width=435&lines=Cloud+Engineer+☁️;GCP+Associate+Architect;Python+%26+DevOps+Enthusiast;Building+scalable+systems...)](https://git.io/typing-svg)
 
-Я займаюся хмарними технологіями, автоматизацією та розробкою інфраструктури.
+I specialize in cloud technologies, automation, and infrastructure development.
 
-- 🔭 Зараз працюю над: **GCP Certification & Cloud Infrastructure**
-- 🌱 Вивчаю: **Advanced Kubernetes & Serverless patterns**
-- 💬 Запитуй мене про: **GCP, Terraform, Python, Docker**
-- 📫 Як зв'язатися: [LinkedIn](https://www.linkedin.com/in/)
+- 🔭 I’m currently working on: **GCP Certification & Cloud Infrastructure**
+- 🌱 I’m currently learning: **Advanced Kubernetes & Serverless patterns**
+- 💬 Ask me about: **GCP, Terraform, Python, Docker**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/)
 
 ---
 
@@ -37,16 +37,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Статистика профілю (Темна тема) -->
+  <!-- Profile Stats (Dark Theme) -->
   <a href="https://github.com/vyacheslavprokosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vyacheslavprokosa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
   
-  <!-- Мови, які найчастіше використовуються -->
+  <!-- Top Languages -->
   <a href="https://github.com/vyacheslavprokosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyacheslavprokosa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
-<!-- Змійка активності (оновлюється раз на добу) -->
+<!-- Snake Animation (updates every 12 hours) -->
 ![Snake animation](https://github.com/vyacheslavprokosa/vyacheslavprokosa/blob/output/github-contribution-grid-snake.svg)
