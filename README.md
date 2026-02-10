@@ -7,7 +7,7 @@ I specialize in backend development (Python/PHP) with a strong background in clo
 
 - 🔭 I’m currently working on: **GCP Certification & Cloud Infrastructure**
 - 🌱 I’m currently learning: **Advanced Kubernetes & Serverless patterns**
-- 💬 Ask me about: **GCP, Terraform, Python, Docker**
+- 💬 Ask me about: **GCP, Terraform, Python, PHP, Docker**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/viacheslav-prokosa-8497351a7/)
 
 ---
